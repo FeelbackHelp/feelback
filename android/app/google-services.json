@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "972145849986",
+    "project_id": "feelback-536d4",
+    "storage_bucket": "feelback-536d4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972145849986:android:28a4e28a947632a6aea69b",
+        "android_client_info": {
+          "package_name": "com.example.feelback"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpiYOYzu7NGZKQHP1qLlRkkM9CcXvZ-eE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
